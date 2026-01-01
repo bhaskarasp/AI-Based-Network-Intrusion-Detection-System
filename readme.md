@@ -28,8 +28,8 @@ Pandas & Numpy: For data handling and simulation.
 
 ## Installation & Setup
 1. Clone the Repository:
-git clone https://github.com/bhaskarasp/nids.git
-cd nids
+git clone https://github.com/bhaskarasp/AI-Based-Network-Intrusion-Detection-System.git
+cd AI-Based-Network-Intrusion-Detection-System
 
 2. Install Dependencies:
 
