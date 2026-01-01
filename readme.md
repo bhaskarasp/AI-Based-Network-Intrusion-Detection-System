@@ -28,7 +28,7 @@ Pandas & Numpy: For data handling and simulation.
 
 ## Installation & Setup
 1. Clone the Repository:
-git clone https://github.com/yourusername/nids.git
+git clone https://github.com/bhaskarasp/nids.git
 cd nids
 
 2. Install Dependencies:
