@@ -2,29 +2,29 @@
 
 Welcome to the AI-powered Network Intrusion Detection System (NIDS) project. This application uses machine learning to analyze network traffic and classify it into two categories:
 
-### Benign (Safe): Normal network traffic.
+Benign (Safe): Normal network traffic.
 
-### Malicious (Attack): Potential cyberattacks such as DDoS, port scans, and other forms of network intrusions.
+Malicious (Attack): Potential cyberattacks such as DDoS, port scans, and other forms of network intrusions.
 
 ## Features:
 
-### Real-Time Traffic Classification: Classify network traffic based on simulated packet data.
+Real-Time Traffic Classification: Classify network traffic based on simulated packet data.
 
-### Interactive Streamlit Dashboard: Easily train and evaluate the model with visualized metrics and real-time testing.
+Interactive Streamlit Dashboard: Easily train and evaluate the model with visualized metrics and real-time testing.
 
-### Performance Metrics: Get the model's performance metrics, such as accuracy, confusion matrix, and detected threats.
+Performance Metrics: Get the model's performance metrics, such as accuracy, confusion matrix, and detected threats.
 
-### Live Traffic Simulator: Test custom network traffic inputs to see if the system flags them as malicious or benign.
+Live Traffic Simulator: Test custom network traffic inputs to see if the system flags them as malicious or benign.
 
 ## Technologies Used:
 
-### Streamlit: Framework for building the interactive dashboard.
+Streamlit: Framework for building the interactive dashboard.
 
-### Scikit-learn: For machine learning model (Random Forest).
+Scikit-learn: For machine learning model (Random Forest).
 
-### Seaborn & Matplotlib: For data visualization (confusion matrix).
+Seaborn & Matplotlib: For data visualization (confusion matrix).
 
-### Pandas & Numpy: For data handling and simulation.
+Pandas & Numpy: For data handling and simulation.
 
 ## Installation & Setup
 1. Clone the Repository:
